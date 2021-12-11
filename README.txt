@@ -1,5 +1,5 @@
 welcome to my implementation of the beginner classification algorithm, k-nearest neighbors!
-in order to use this program, please read the following and the instruction in "USEME.txt"
+in order to use this program, please read the following and the instructionS in "USEME.txt"
 
 SUMMARY OF IMPLEMENTATION + DESIGN OF CODE:
 below is a brief summary of each file and its purpose in the "src" folder
